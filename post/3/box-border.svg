@@ -1,0 +1,11 @@
+<svg version="1.1" baseProfile="full" width="800" height="800" viewbox="0,0,800,800" 
+  xmlns="http://www.w3.org/2000/svg">
+  <rect style="fill:#F9CC9D" stroke-width="2" stroke="#000" stroke-dasharray="5 5" x="25" y="25" width="750" height="750"/>
+  <text x="400" y="60" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">margin</text>
+  <rect style="fill:#FDDC9A" stroke-width="2" stroke="#000" x="80" y="80" width="640" height="640"/>
+  <text x="400" y="115" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">border</text>
+  <rect style="fill:#C2CE89" stroke-width="2" stroke="#777" stroke-dasharray="5 5" x="135" y="135" width="530" height="530" />
+  <text x="400" y="170" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">padding</text>
+  <rect style="fill:#8BB4C0" stroke-width="2" stroke="#777" x="190" y="190" width="420" height="420"/>
+  <text x="400" y="400" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, roboto,sans-serif">content</text>
+</svg>

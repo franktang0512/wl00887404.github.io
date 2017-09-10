@@ -1,0 +1,30 @@
+<svg version="1.1" baseProfile="full" width="850" height="400" viewbox="0,0,850,400" 
+  xmlns="http://www.w3.org/2000/svg">
+  <text x="400" y="60" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">html</text>
+  <line x1="400" y1="70" x2="200" y2="120" stroke="black" stroke-width="2" />
+  <text x="200" y="140" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">head</text>
+  <line x1="400" y1="70" x2="600" y2="120" stroke="black" stroke-width="2" />
+  <text x="600" y="140" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">body</text>
+  <line x1="200" y1="150" x2="100" y2="200" stroke="black" stroke-width="2" />
+  <text x="100" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">link</text>
+  <line x1="200" y1="150" x2="200" y2="200" stroke="black" stroke-width="2" />
+  <text x="200" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">title</text>
+  <line x1="200" y1="150" x2="300" y2="200" stroke="black" stroke-width="2" />
+  <text x="300" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">meta</text>
+  <line x1="600" y1="150" x2="450" y2="200" stroke="black" stroke-width="2" />
+  <text x="450" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">img</text>
+  <line x1="600" y1="150" x2="550" y2="200" stroke="black" stroke-width="2" />
+  <text x="550" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">h1</text>
+  <line x1="600" y1="150" x2="650" y2="200" stroke="black" stroke-width="2" />  
+  <text x="650" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">h2</text>
+  <line x1="600" y1="150" x2="750" y2="200" stroke="black" stroke-width="2" />  
+  <text x="750" y="220" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">p</text>
+  <line x1="200" y1="230" x2="200" y2="280" stroke="black" stroke-width="2" />    
+  <text x="200" y="300" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">我是一個網頁</text>
+  <line x1="550" y1="230" x2="550" y2="280" stroke="black" stroke-width="2" />      
+  <text x="550" y="300" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">女孩</text>
+  <line x1="650" y1="230" x2="650" y2="280" stroke="black" stroke-width="2" />        
+  <text x="650" y="300" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">...text</text>
+  <line x1="750" y1="230" x2="750" y2="280" stroke="black" stroke-width="2" />        
+  <text x="750" y="300" text-anchor="middle" style="font-size:24px;font-family:微軟正黑體, Roboto,sans-serif">...text</text>
+</svg>
