@@ -272,6 +272,7 @@ h2 {
 
 .hindden.icon {
     display: none;
+    z-index: -1;
 }
 
 @media all {
@@ -290,3 +291,4 @@ h2 {
     //     page-break-inside: avoid;
     // }
 }
+

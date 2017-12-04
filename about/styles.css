@@ -196,7 +196,9 @@ h2 {
       color: black; }
 
 .hindden:not(.icon) {
-  opacity: 0 !important; }
+  opacity: 0 !important; 
+  z-index: -1;
+}
 
 .hindden.icon {
   display: none; }
@@ -206,3 +208,16 @@ h2 {
     display: block;
     page-break-before: always;
     padding-top: 2em; } }
+
+.tag{
+      display: flex;
+}
+
+.tag > *{
+  
+}
+
+
+.tag > *:not(:last-child){
+  
+}
